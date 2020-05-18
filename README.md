@@ -3,7 +3,7 @@
 Banco de dados retirado do kaggle no link:https://www.kaggle.com/andreifnmg/campeonato-braileiro-20092018
 
 
-[# Atividade 1](/atividade1.ipynb)
+# [Atividade 1](/atividade1.ipynb)
 
 # Atividade 2
 [Atividade 2](/Atividade2.ipynb)
