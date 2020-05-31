@@ -9,4 +9,4 @@ Banco de dados retirado do kaggle no link:https://www.kaggle.com/andreifnmg/camp
 
 * [Atividade 3](/Atividade3_fut.ipynb)
 
-* [Resumo com as principias informações obtidas com as atividades](/atividade_resumoDados.ipynb)
+* [Resumo com as principais informações obtidas com as atividades](/atividade_resumoDados.ipynb)
