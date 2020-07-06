@@ -15,4 +15,4 @@ Banco de dados retirado do kaggle no link:https://www.kaggle.com/andreifnmg/camp
 
 Banco de dados retirado do kaggle no link:https://www.kaggle.com/c/titanic/overview
 
-* [Atividade 5] (/trabalho5.ipynb)
+* [Atividade 5](/trabalho5.ipynb)
